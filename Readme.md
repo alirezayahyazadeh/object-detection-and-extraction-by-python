@@ -37,6 +37,7 @@ This repository provides a suite of Python scripts designed for object detection
 - Demonstrates how depth images can create binary masks to separate the foreground from the background.  
 - Uses depth thresholds to generate visualizations.  
 
+https://github.com/alirezayahyazadeh/object-detection-and-extraction-by-python
 ## Requirements  
 
 ### Software  
